@@ -23,14 +23,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/jetbrains.svg" alt="jetbrains" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/sqlserver.svg" alt="sqlserver" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/blazor.svg" alt="blazor" style="vertical-align:top; margin:4px">
- <img src="https://github.com/saberzahed/saberzahed/blob/main/img/akka.png" alt="akka" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/html.svg" alt="html" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/js.svg" alt="javascript" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/jetbrains.svg" alt="jetbrains" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/sqlserver.svg" alt="sqlserver" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/blazor.svg" alt="blazor" style="vertical-align:top; margin:4px;width: 50px;">
+ <img src="https://github.com/saberzahed/saberzahed/blob/main/img/akka.png" alt="akka" style="vertical-align:top; margin:4px;width: 50px;">
 </p>
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true&theme=dark" alt="SaberZahedianfard" /> 
