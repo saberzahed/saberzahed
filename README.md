@@ -19,23 +19,23 @@
 
 <b>Languages, Tools, Frameworks</b> <br>
 <p align="center">
-<img src="http://img.shields.io/badge/-visualstudio-430098?style=flat&logo=visualstudio&logoColor=white">
-<img src="http://img.shields.io/badge/-Jetbrains Rider-orange?style=flat&logo=rider&logoColor=black">
-<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=flat&logo=tfs&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-visualstudio-430098?style=plastic&logo=visualstudio&logoColor=white">
+<img src="http://img.shields.io/badge/-Jetbrains Rider-orange?style=plastic&logo=rider&logoColor=black">
+<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=plastic&logo=tfs&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Sql Server-lightgrey?style=flat&logoColor=white">
-<img src="http://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Akka.net-blue?style=flat&logoColor=white">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-SQL Server-lightgrey?style=plastic&logo=microsoft-sql-server&logoColor=black">
+<img src="http://img.shields.io/badge/-Docker-black?style=plastic&logo=docker&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Akka.net-blue?style=plastic&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF">
 </p>
 
 <br />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat-square" alt="SaberZahedianfard" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saberzahed&style=plastic" alt="SaberZahedianfard" /> 
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
 </p>
