@@ -33,12 +33,16 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat-square" />
 <br />
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat-square" alt="SaberZahedianfard" /> 
+</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
 </p>
 
-<a href="https://github.com/saberzahed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" />
-</a>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" alt="SaberZahedianfard" /> 
+</p>
+
+
 
