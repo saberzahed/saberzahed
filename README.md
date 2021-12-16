@@ -1,5 +1,6 @@
 <h1 align="center">Hi there <img src="https://github.com/saberzahed/saberzahed/blob/main/img/Hi.gif" width="40px">, I'm Saber Zahedianfard</h1>
 
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saberzahedianfard/)](https://www.linkedin.com/in/saberzahedianfard/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14275683/saber-zahedian-fard)](https://stackoverflow.com/users/14275683/saber-zahedian-fard)
 [![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:saberzahedy@gmail.com)](mailto:saberzahedy@gmail.com)
@@ -12,6 +13,7 @@
 - 🔭 I'm graduated in Software Engineering.
 - 🌱 I’m currently learning Microsoft .Net, DDD, DDDD, Akka.net,Operating System and ... .
 - 👯 I’m looking to collaborate on Open-source Projects.
+- 💼 Currently working as: Senior Software Engineering at <a href="https://asax.ir/" target="_blank"><b>Vista Samaneh Asa</b></a>
 
 ![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
 
