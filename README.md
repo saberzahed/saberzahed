@@ -1,13 +1,10 @@
-### Hi there 👋
-
-<h1 align="center">Hi there <img src="https://github.com/saberzahed/saberzahed/blob/main/img/Hi.gif" width="40px">, I'm Saber zahedianfard</h1>
+<h1 align="center">Hi there <img src="https://github.com/saberzahed/saberzahed/blob/main/img/Hi.gif" width="40px">, I'm Saber Zahedianfard</h1>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saberzahedianfard/)](https://www.linkedin.com/in/saberzahedianfard/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14275683/saber-zahedian-fard)](https://stackoverflow.com/users/14275683/saber-zahedian-fard)
 [![Gmail](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:saberzahedy@gmail.com)](mailto:saberzahedy@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/saberzahed.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/saberzahed?tab=followers)
-
-<br />
+[![Nuget](https://img.shields.io/badge/-Nuget-222222?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/SaberZahedianfard)](https://www.nuget.org/profiles/SaberZahedianfard)
+---
 
 ![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
 
@@ -17,7 +14,7 @@
 - 🌱 I’m currently learning Microsoft .Net, DDD, DDDD, Akka.net,Operating System and ... .
 - 👯 I’m looking to collaborate on Open-source Projects.
 
-<b>Languages, Tools, Frameworks</b> <br>
+<b>Languages, Tools, Frameworks</b> <br/>
 <p align="center">
 <img src="http://img.shields.io/badge/-visualstudio-430098?style=plastic&logo=visualstudio&logoColor=white">
 <img src="http://img.shields.io/badge/-Jetbrains Rider-orange?style=plastic&logo=rider&logoColor=black">
@@ -32,15 +29,12 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=ffffff">
 <img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF">
 </p>
+<b>My Github</b> <br>
 
-<br />
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saberzahed&style=plastic" alt="SaberZahedianfard" /> 
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/saberzahed.svg?style=plastic&label=Follow&maxAge=2592000)](https://github.com/saberzahed?tab=followers)
+[![GitHub Profile Viewer](https://komarev.com/ghpvc/?username=saberzahed&style=plastic)](https://github.com/saberzahed?tab=followers)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
 </p>
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" alt="SaberZahedianfard" /> 
 </p>
 
