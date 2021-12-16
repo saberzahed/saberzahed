@@ -32,9 +32,9 @@
 </p>
 <b>My Github</b> <br/>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat" alt="SaberZahedianfard" /> 
-    <img src="https://img.shields.io/github/followers/saberzahed.svg?style=flat&label=Follow&maxAge=2592000" alt="SaberZahedianfard" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
+    <img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat" alt="SaberZahedianfard" /> <br/>
+    <img src="https://img.shields.io/github/followers/saberzahed.svg?style=flat&label=Follow&maxAge=2592000" alt="SaberZahedianfard" /> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" alt="SaberZahedianfard" /> 
 </p>
 
