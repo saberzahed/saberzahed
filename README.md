@@ -13,7 +13,8 @@
 - 🔭 I'm graduated in Software Engineering.
 - 🌱 I’m currently learning Microsoft .Net, DDD, DDDD, Akka.net,Operating System and ... .
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 💼 Currently working as: Senior Software Engineering at <a href="https://asax.ir/" target="_blank"><b>Vista Samaneh Asa</b></a>
+- 💼 Currently working as: Senior Software Engineering at  <a href="https://asax.ir/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Vista%20Samaneh%20Asa&color=blue"/></a>
+
 
 ![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
 
