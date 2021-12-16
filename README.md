@@ -29,15 +29,12 @@
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=black">
 <img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF">
 </p>
-<b>My Github</b> 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/saberzahed.svg?style=plastic&label=Follow&maxAge=2592000)](https://github.com/saberzahed?tab=followers)
-[![GitHub Profile Viewer](https://komarev.com/ghpvc/?username=saberzahed&style=plastic)](https://github.com/saberzahed?tab=followers)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
+<b>My Github</b> <br/>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=saberzahed&style=flat" alt="SaberZahedianfard" /> 
+    <img src="https://img.shields.io/github/followers/saberzahed.svg?style=flat&label=Follow&maxAge=2592000" alt="SaberZahedianfard" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=saberzahed&show_icons=true" alt="SaberZahedianfard" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" alt="SaberZahedianfard" /> 
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberzahed&layout=compact" alt="SaberZahedianfard" /> 
-</p>
-
 
 
