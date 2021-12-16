@@ -18,18 +18,19 @@
 <p align="center">
 <img src="http://img.shields.io/badge/-visualstudio-430098?style=plastic&logo=visualstudio&logoColor=white">
 <img src="http://img.shields.io/badge/-Jetbrains Rider-orange?style=plastic&logo=rider&logoColor=black">
-<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=plastic&logo=tfs&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-SQL Server-lightgrey?style=plastic&logo=microsoft-sql-server&logoColor=black">
-<img src="http://img.shields.io/badge/-Docker-black?style=plastic&logo=docker&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Docker-whitesmoke?style=plastic&logo=docker&logoColor=black">
+<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=plastic&logo=tfs&logoColor=FFFFFF"> <br/>
+<img src="http://img.shields.io/badge/-SQL Server-maroon?style=plastic&logo=microsoft-sql-server&logoColor=white">
 <img src="http://img.shields.io/badge/-Akka.net-blue?style=plastic&logoColor=white">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><br/>
+<img src = "https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=black">
 <img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF">
 </p>
-<b>My Github</b> <br>
+<b>My Github</b> 
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/saberzahed.svg?style=plastic&label=Follow&maxAge=2592000)](https://github.com/saberzahed?tab=followers)
 [![GitHub Profile Viewer](https://komarev.com/ghpvc/?username=saberzahed&style=plastic)](https://github.com/saberzahed?tab=followers)
