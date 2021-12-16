@@ -6,13 +6,14 @@
 [![Nuget](https://img.shields.io/badge/-Nuget-222222?style=flat-square&logo=nuget&logoColor=white&link=https://www.nuget.org/profiles/SaberZahedianfard)](https://www.nuget.org/profiles/SaberZahedianfard)
 ---
 
-![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
 
 <b>About me</b> <br>
 - <img src='https://github.com/saberzahed/saberzahed/blob/main/IR.svg?raw=true' width='21' height='15'> I am from Iran.
 - 🔭 I'm graduated in Software Engineering.
 - 🌱 I’m currently learning Microsoft .Net, DDD, DDDD, Akka.net,Operating System and ... .
 - 👯 I’m looking to collaborate on Open-source Projects.
+
+![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
 
 <b>Languages, Tools, Frameworks</b> <br/>
 <p align="center">
