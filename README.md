@@ -9,27 +9,29 @@
 
 
 <b>About me</b> <br>
-- <img src='https://github.com/saberzahed/saberzahed/blob/main/IR.svg?raw=true' width='21' height='15'> I am from Iran.
-- 🔭 I'm graduated in Software Engineering.
-- 🌱 I’m currently learning Microsoft .Net, DDD, DDDD, Akka.net,Operating System and ... .
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💼 Currently working as: Senior Software Engineering at  <a href="https://asax.ir/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Vista%20Samaneh%20Asa&color=blue"/></a>
-
-
-![](https://img.shields.io/badge/Csharp-Developer-brightgreen) ![](https://img.shields.io/badge/dotnet-Lover-maroon) ![](https://img.shields.io/badge/Dotnet-Enthusiast-yellow) ![](https://img.shields.io/badge/Exp-9+yrs-red)
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Country&message=Iran&color=">
+<img src="https://img.shields.io/static/v1?label=Education&message=Software%20Engineering&color=maroon">
+<br/>
+<img src="https://img.shields.io/static/v1?label=Stack&message=Microsoft%20.Net&color=blue">
+<img src="https://img.shields.io/static/v1?label=Lang&message=Csharp&color=purple">
+<br/>
+<img src="https://img.shields.io/static/v1?label=Exp&message=~9yrs&color=red">
+<a href="https://asax.ir/" target="_blank"><img src="https://img.shields.io/static/v1?label=Working%20at&message=Vista%20Samaneh%20Asa&color=skyblue"/></a>
+</p>
 
 <b>Languages, Tools, Frameworks</b> <br/>
 <p align="center">
 <img src="http://img.shields.io/badge/-visualstudio-430098?style=plastic&logo=visualstudio&logoColor=white">
 <img src="http://img.shields.io/badge/-Jetbrains Rider-orange?style=plastic&logo=rider&logoColor=black">
-<img src="http://img.shields.io/badge/-Docker-whitesmoke?style=plastic&logo=docker&logoColor=black">
-<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=plastic&logo=tfs&logoColor=FFFFFF"> <br/>
-<img src="http://img.shields.io/badge/-SQL Server-maroon?style=plastic&logo=microsoft-sql-server&logoColor=white">
+<img src="http://img.shields.io/badge/-Docker-whitesmoke?style=plastic&logo=docker&logoColor=black"><br/>
+<img src="http://img.shields.io/badge/-Azure DevOps-blue?style=plastic&logo=tfs&logoColor=FFFFFF"> 
+<img src="http://img.shields.io/badge/-SQL Server-maroon?style=plastic&logo=microsoft-sql-server&logoColor=white"><br/>
 <img src="http://img.shields.io/badge/-Akka.net-blue?style=plastic&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><br/>
-<img src = "https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src = "https://img.shields.io/badge/-HTML-E34F26?style=plastic&logo=html5&logoColor=white"> <br/>
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white"><br/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=fplasticlat&logo=javascript&logoColor=black">
 <img src="http://img.shields.io/badge/-Github-000000?style=plastic&logo=github&logoColor=FFFFFF">
 </p>
